@@ -1,0 +1,2 @@
+cd smartcontracts
+yarn install
