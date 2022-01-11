@@ -1,3 +1,3 @@
 cd app
-npm install
+yarn install
 exit
