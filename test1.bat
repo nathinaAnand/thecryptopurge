@@ -1,3 +1,3 @@
 cd smartcontracts
-yarn install
+npm install
 exit
