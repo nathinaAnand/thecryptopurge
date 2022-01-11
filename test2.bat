@@ -1,3 +1,3 @@
 cd server
-npm install
+yarn install
 exit
