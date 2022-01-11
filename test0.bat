@@ -1,2 +1,2 @@
-yarn install && yarn add web3
+npm install && npm add web3
 exit
