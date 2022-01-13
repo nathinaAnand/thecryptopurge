@@ -1,3 +1,3 @@
 cd app
 yarn install
-exit
+yarn start
