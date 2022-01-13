@@ -1,1 +1,1 @@
-npm i --global yarn
+npx hardhat node
