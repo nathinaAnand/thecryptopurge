@@ -1,3 +1,2 @@
 cd app
-yarn install
-yarn start
+yarn install && yarn start
