@@ -1,3 +1,3 @@
 cd server
 yarn install
-exit
+yarn start
